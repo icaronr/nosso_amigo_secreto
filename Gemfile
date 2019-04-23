@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'jquery-rails'
 gem 'devise'
-gem 'materialize-sass'
+gem 'materialize-sass', '~> 1.0.0'
 gem 'material_icons'
 gem 'redis'
 gem 'sidekiq'
