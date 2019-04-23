@@ -39,6 +39,11 @@ gem 'material_icons'
 gem 'redis'
 gem 'sidekiq'
 
+# for email template
+gem 'inky-rb', require: 'inky'
+gem 'premailer-rails'
+
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
